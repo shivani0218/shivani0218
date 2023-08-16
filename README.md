@@ -9,7 +9,7 @@ I'm all about crafting elegant backend solutions, optimizing SQL queries, and sp
 
 ## 🚀 Skills & Tools
 
-- 💻 Backend: Python, Flask, Django
+- 💻 Backend: Python, Flask, FastApi
 - ☁️ Cloud: AWS, GCP
 - 🗃️ Databases: SQL, PostgreSQL, MySQL
 - 📜 Version Control: Git, GitHub
